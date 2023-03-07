@@ -9,8 +9,11 @@
 * **Location:** Minsk, Belarus
 
 ## About me
+
 I am 32 years old. I work  in energy company as an engineer. Not so long ago I got a little acquainted with programming and realized that I was interested in it. Now I want to get more necessary knowledge for a future new profession and that's why I came to this course.
+
 ## Skills
+
 * **HTML**
 * **CSS**
 * **SASS**
