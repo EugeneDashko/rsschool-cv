@@ -31,7 +31,7 @@ function search(array, target) {
      if(array[i] === target) return i
    }
    return -1
- }
+ };
 
  console.log(search([1, 7, 11, 22, 34], 22)) // -> 3
  console.log(search([1, 7, 15, 13,19], 12)) // -> -1
